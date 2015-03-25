@@ -2,6 +2,8 @@
 # Simple notification catch script for Adyen notifications
 # This script just logs all incoming requests in a file
 
+#comment
+
 from datetime import datetime
 import cgi, os
 
